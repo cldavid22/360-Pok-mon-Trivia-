@@ -1,1 +1,1 @@
-# 360-Pok-mon-Trivia-
+# 360-Pokemon-Trivia-
