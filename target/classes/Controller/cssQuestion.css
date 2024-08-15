@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: "LightBlue";
+}
+
+.label{
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial";
+    -fx-text-fill: "Black";
+    -fx-alignment: center;
+}
